@@ -26,3 +26,7 @@ status_code_test
 .vs
 
 docs/doxygen_output
+
+# Not track the followings in forked version
+.idea/
+cmake-build-debug/
